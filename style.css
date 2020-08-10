@@ -3,6 +3,159 @@ body {
     font-family: 'Schoolbell';
 }
 
+ul {
+    margin-top: 0;
+    margin-bottom: 0rem !important;
+}
+
+.list-inline-item:not(:last-child) {
+    margin-right: -2.5rem !important;
+}
+
+.price1 {
+    position: absolute;
+    top: 175%;
+    left: 2%;
+}
+
+.price2 {
+    position: absolute;
+    top: 145%;
+    left: -5%;
+}
+
+.price3 {
+    position: absolute;
+    top: 165%;
+    left: -5%;
+}
+
+.price4 {
+    position: absolute;
+    top: 145%;
+    left: 5%;
+}
+
+.price5 {
+    position: absolute;
+    top: 125%;
+    left: 5%;
+}
+
+.price6 {
+    position: absolute;
+    top: 315%;
+    left: 20%;
+}
+
+.price7 {
+    position: absolute;
+    top: 140%;
+    left: 4%;
+}
+
+.price8 {
+    position: absolute;
+    top: 130%;
+    left: -6%;
+}
+
+.price9 {
+    position: absolute;
+    top: 145%;
+    left: -5%;
+}
+
+.price10 {
+    position: absolute;
+    top: 265%;
+    left: -5%;
+}
+
+.price11 {
+    position: absolute;
+    top: 215%;
+    left: 25%;
+}
+
+.price12 {
+    position: absolute;
+    top: 145%;
+    left: 5%;
+}
+
+.price13 {
+    position: absolute;
+    top: 235%;
+    left: 5%;
+}
+
+.price14 {
+    position: absolute;
+    top: 145%;
+    left: 5%;
+}
+
+.price15 {
+    position: absolute;
+    top: 145%;
+    left: 5%;
+}
+
+.price16 {
+    position: absolute;
+    top: 130%;
+    left: 5%;
+}
+
+.price17 {
+    position: absolute;
+    top: 195%;
+    left: 5%;
+}
+
+.price18 {
+    position: absolute;
+    top: 260%;
+    left: 25%;
+}
+
+.price19 {
+    position: absolute;
+    top: 130%;
+    left: -5%;
+}
+
+.price20 {
+    position: absolute;
+    top: 210%;
+    left: 4%;
+}
+
+.price21 {
+    position: absolute;
+    top: 140%;
+    left: 5%;
+}
+
+.price22 {
+    position: absolute;
+    top: 155%;
+    left: 5%;
+}
+
+.price23 {
+    position: absolute;
+    top: 180%;
+    left: 25%;
+}
+
+.price24 {
+    position: absolute;
+    top: 250%;
+    left: 5%;
+}
+
 /* For items */
 .item-container {
     position: relative;
@@ -49,6 +202,10 @@ body {
         grid-template-columns: repeat(1, 1fr);
         grid-gap: 20px;
         margin-bottom: 5px;
+    }
+
+    .phone-num {
+        padding-left: 0px !important;
     }
 
     .logo {
@@ -112,150 +269,6 @@ body {
     .twentythree {
         grid-column: 1 / 3;
         grid-row: 8;
-    }
-
-    .price1 {
-        position: absolute;
-        top: 175%;
-        left: 2%;
-    }
-    
-    .price2 {
-        position: absolute;
-        top: 145%;
-        left: -5%;
-    }
-    
-    .price3 {
-        position: absolute;
-        top: 165%;
-        left: -5%;
-    }
-    
-    .price4 {
-        position: absolute;
-        top: 145%;
-        left: 5%;
-    }
-    
-    .price5 {
-        position: absolute;
-        top: 125%;
-        left: 5%;
-    }
-    
-    .price6 {
-        position: absolute;
-        top: 315%;
-        left: 20%;
-    }
-    
-    .price7 {
-        position: absolute;
-        top: 140%;
-        left: 4%;
-    }
-    
-    .price8 {
-        position: absolute;
-        top: 130%;
-        left: -6%;
-    }
-    
-    .price9 {
-        position: absolute;
-        top: 145%;
-        left: -5%;
-    }
-    
-    .price10 {
-        position: absolute;
-        top: 265%;
-        left: -5%;
-    }
-    
-    .price11 {
-        position: absolute;
-        top: 215%;
-        left: 25%;
-    }
-    
-    .price12 {
-        position: absolute;
-        top: 145%;
-        left: 5%;
-    }
-    
-    .price13 {
-        position: absolute;
-        top: 235%;
-        left: 5%;
-    }
-    
-    .price14 {
-        position: absolute;
-        top: 145%;
-        left: 5%;
-    }
-    
-    .price15 {
-        position: absolute;
-        top: 145%;
-        left: 5%;
-    }
-    
-    .price16 {
-        position: absolute;
-        top: 130%;
-        left: 5%;
-    }
-    
-    .price17 {
-        position: absolute;
-        top: 195%;
-        left: 5%;
-    }
-    
-    .price18 {
-        position: absolute;
-        top: 260%;
-        left: 25%;
-    }
-    
-    .price19 {
-        position: absolute;
-        top: 130%;
-        left: -5%;
-    }
-    
-    .price20 {
-        position: absolute;
-        top: 210%;
-        left: 4%;
-    }
-    
-    .price21 {
-        position: absolute;
-        top: 140%;
-        left: 5%;
-    }
-    
-    .price22 {
-        position: absolute;
-        top: 155%;
-        left: 5%;
-    }
-    
-    .price23 {
-        position: absolute;
-        top: 180%;
-        left: 25%;
-    }
-    
-    .price24 {
-        position: absolute;
-        top: 250%;
-        left: 5%;
     }
     
 }
