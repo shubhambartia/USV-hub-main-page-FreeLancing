@@ -3,6 +3,6 @@ The main page of the USV Toys Ports(Freelancing).
 https://usvtoysports.com
 
 # Technology Used
-HTML, CSS, Bootstarp.
+HTML, CSS, Bootstrap.
 
 
